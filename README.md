@@ -54,7 +54,7 @@ You can now run the Adapter by executing the generated jar in the chosen path :
 
     java -jar fileReaderAdapter.jar
     
-If everything is configured correctly and the sec-Manager is running, you can now place a request from RMP to retrieve a file. 
+If everything is configured correctly and the sec-Manager is running, you can now Post the manager to retrieve a file. 
 
 The POST body should look like something like this:
 
